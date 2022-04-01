@@ -5,6 +5,6 @@
 - 📫 andrea.mabalu@gmail.com
 
 <!---
-andreabalu/andreabalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+andreabalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
