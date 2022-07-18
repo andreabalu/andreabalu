@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreabalu
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on learning to code.
+- 🌱 I’m currently enrolled as a Java bootcamp student at Tech Elevator.
+- 💞️ I’m looking to collaborate to expand my coding knowledge.
 - 📫 andrea.mabalu@gmail.com
 
 <!---
